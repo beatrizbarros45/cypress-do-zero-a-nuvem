@@ -9,6 +9,9 @@
     "test": "cypress run",
     "test:mobile": "cypress run --config viewportWidth=370 viewportHeight=660"
 },
+  "devDependencies": {
+  "cypress": "^15.5.0"
+},
 
   "repository": {
     "type": "git",
